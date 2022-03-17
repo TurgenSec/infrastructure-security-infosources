@@ -2,7 +2,7 @@
 Informational resources that should be iteratively checked by team members and help drive R&amp;D
 
 
-## Digests
+## Digests and Blogs
 
 - [Hacker101](https://www.hacker101.com/) - Written by [hackerone](https://www.hackerone.com/start-hacking).
 - [The Daily Swig - Web security digest](https://portswigger.net/daily-swig) - Written by [PortSwigger](https://portswigger.net/).
@@ -14,6 +14,26 @@ Informational resources that should be iteratively checked by team members and h
 - [tl;dr sec](https://tldrsec.com/) - Weekly summary of top security tools, blog posts, and security research.
 - [awesome-bug-bounty](https://github.com/djadmin/awesome-bug-bounty) - Comprehensive curated list of available Bug Bounty & Disclosure Programs and write-ups by [@djadmin](https://github.com/djadmin).
 - [bug-bounty-reference](https://github.com/ngalongc/bug-bounty-reference) - List of bug bounty write-up that is categorized by the bug nature by [@ngalongc](https://github.com/ngalongc).
+- [Infosec Writeups](https://infosecwriteups.com/)
+- [Rapid7 Blog](https://www.rapid7.com/blog/)
+- [NCC Group Blog](https://research.nccgroup.com/) - Researches by NCC Group 
+- [Assetnote Blog](https://blog.assetnote.io/)
+- [Youssef Sammouda](https://ysamm.com/)
+- [Detectify Labs](https://labs.detectify.com/) - A security research blog written by Detectify
+- [Omespino's Blog](https://omespino.com/)
+- [Bugcrowd's Blog](https://www.bugcrowd.com/blog/)
+- [intigriti's Blog](https://blog.intigriti.com/category/general/)
+- [Alex Chapman’s Blog](https://ajxchapman.github.io/)
+- [Ed Overflow's Blog](https://edoverflow.com/)
+- [Jon Bottarini's Blog](https://jonbottarini.com/)
+- [Orange's Blog](https://blog.orange.tw/)
+- [Philippe Harewood's Blog](https://philippeharewood.com/)
+- [Ron Chan's Blog](https://ngailong.wordpress.com/)
+- [Shubham Shah's Blog](https://shubs.io/)
+- [spaceraccoon's Blog](https://spaceraccoon.dev/)
+- [Brett Buerhaus's Blog](https://buer.haus/)
+- [Sam Curry's Blog](https://samcurry.net/blog/)
+- [Vickie Li's Blog](https://vickieli.medium.com/)
 
 
 ## Subdomain Enumeration Blog posts
