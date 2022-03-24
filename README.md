@@ -3,37 +3,38 @@ Informational resources that should be iteratively checked by team members and h
 
 
 ## Digests and Blogs
-
-- [Hacker101](https://www.hacker101.com/) - Written by [hackerone](https://www.hackerone.com/start-hacking).
-- [The Daily Swig - Web security digest](https://portswigger.net/daily-swig) - Written by [PortSwigger](https://portswigger.net/).
-- [Web Application Security Zone by Netsparker](https://www.netsparker.com/blog/web-security/) - Written by [Netsparker](https://www.netsparker.com/).
-- [Infosec Newbie](https://www.sneakymonkey.net/2017/04/23/infosec-newbie/) - Written by [Mark Robinson](https://www.sneakymonkey.net/).
-- [The Magic of Learning](https://bitvijays.github.io/) - Written by [@bitvijays](https://bitvijays.github.io/aboutme.html).
-- [CTF Field Guide](https://trailofbits.github.io/ctf/) - Written by [Trail of Bits](https://www.trailofbits.com/).
-- [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings/) - Written by [@swisskyrepo](https://github.com/swisskyrepo).
-- [tl;dr sec](https://tldrsec.com/) - Weekly summary of top security tools, blog posts, and security research.
-- [awesome-bug-bounty](https://github.com/djadmin/awesome-bug-bounty) - Comprehensive curated list of available Bug Bounty & Disclosure Programs and write-ups by [@djadmin](https://github.com/djadmin).
-- [bug-bounty-reference](https://github.com/ngalongc/bug-bounty-reference) - List of bug bounty write-up that is categorized by the bug nature by [@ngalongc](https://github.com/ngalongc).
-- [Infosec Writeups](https://infosecwriteups.com/)
-- [Rapid7 Blog](https://www.rapid7.com/blog/)
-- [NCC Group Blog](https://research.nccgroup.com/) - Researches by NCC Group 
-- [Assetnote Blog](https://blog.assetnote.io/)
-- [Youssef Sammouda](https://ysamm.com/)
-- [Detectify Labs](https://labs.detectify.com/) - A security research blog written by Detectify
-- [Omespino's Blog](https://omespino.com/)
-- [Bugcrowd's Blog](https://www.bugcrowd.com/blog/)
-- [intigriti's Blog](https://blog.intigriti.com/category/general/)
-- [Alex Chapman’s Blog](https://ajxchapman.github.io/)
-- [Ed Overflow's Blog](https://edoverflow.com/)
-- [Jon Bottarini's Blog](https://jonbottarini.com/)
-- [Orange's Blog](https://blog.orange.tw/)
-- [Philippe Harewood's Blog](https://philippeharewood.com/)
-- [Ron Chan's Blog](https://ngailong.wordpress.com/)
-- [Shubham Shah's Blog](https://shubs.io/)
-- [spaceraccoon's Blog](https://spaceraccoon.dev/)
-- [Brett Buerhaus's Blog](https://buer.haus/)
-- [Sam Curry's Blog](https://samcurry.net/blog/)
-- [Vickie Li's Blog](https://vickieli.medium.com/)
+| Source | Frequency | Tags | 
+| --- | --- | --- |
+| [Hacker101](https://www.hacker101.com/)| Monthly | general, ctf, educational
+| [The Daily Swig - Web security digest](https://portswigger.net/daily-swig)| Daily |general, research, write-up
+| [Web Application Security Zone by Netsparker](https://www.netsparker.com/blog/web-security/)| Weekly | research, explanatory
+| [The Magic of Learning](https://bitvijays.github.io/)| Monthly | general, explanatory
+| [CTF Field Guide](https://trailofbits.github.io/ctf/)| Monthly | ctf
+| [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings/)| Weekly | payload
+| [tl;dr sec](https://tldrsec.com/).| Daily | digest, general, research, write-up
+| [sakurity](http://sakurity.com/blog)| Not up-to-date | general, write-up, research, explanatory
+| [bug-bounty-reference](https://github.com/ngalongc/bug-bounty-reference)| Not up-to-date |general
+| [Infosec Writeups](https://infosecwriteups.com/)| Daily | digest, general, research, write-up
+| [Yappare's Blog](https://blog.yappare.com/) | Not up-to-date | write-up, research
+| [Rapid7 Blog](https://www.rapid7.com/blog/)| Weekly | general, research, write-up, explanatory
+| [NCC Group Blog](https://research.nccgroup.com/)|  Weekly | general, research, write-up
+| [Assetnote Blog](https://blog.assetnote.io/)| Weekly | general, research, write-up
+| [Youssef Sammouda](https://ysamm.com/)| Weekly | write-up
+| [Detectify Labs](https://labs.detectify.com/)| Weekly | general, research, write-up
+| [Omespino's Blog](https://omespino.com/)| Weekly | write-up
+| [Bugcrowd's Blog](https://www.bugcrowd.com/blog/)| Monthly |general, digest
+| [intigriti's Blog](https://blog.intigriti.com/category/general/)| Daily |general, digest
+| [Alex Chapman’s Blog](https://ajxchapman.github.io/)| Monthly | general, write-up, explanatory
+| [Ed Overflow's Blog](https://edoverflow.com/)| Monthly | general, write-up, explanatory
+| [Jon Bottarini's Blog](https://jonbottarini.com/)| Monthly |general, write-up
+| [Orange's Blog](https://blog.orange.tw/)| Weekly | advanced, write-up, research
+| [Philippe Harewood's Blog](https://philippeharewood.com/)| Weekly | write-up
+| [Ron Chan's Blog](https://ngailong.wordpress.com/)| Monthly | write-up
+| [Shubham Shah's Blog](https://shubs.io/)| Monthly | explanatory, write-up
+| [spaceraccoon's Blog](https://spaceraccoon.dev/)| Monthly |write-up
+| [Brett Buerhaus's Blog](https://buer.haus/)| Weekly |write-up
+| [Sam Curry's Blog](https://samcurry.net/blog/)| Weekly | advanced, write-up
+| [Vickie Li's Blog](https://vickieli.medium.com/)| Monthly |general
 
 
 ## Subdomain Enumeration Blog posts
